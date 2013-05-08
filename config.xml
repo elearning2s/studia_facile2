@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.app9.elearning"
-	version 	= "1.1">
-	<name>Studia Facile </name>
+	id		= "com.studiafacile2.android"
+	version 	= "2.0">
+	<name>Studia Facile 2 </name>
 	<description>
 		questa è la descrizione per stidiafacile
 	</description>
