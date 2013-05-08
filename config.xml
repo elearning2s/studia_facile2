@@ -26,6 +26,8 @@
 <feature name="http://api.phonegap.com/1.0/media"/>
 <feature name="http://api.phonegap.com/1.0/network"/>
 <feature name="http://api.phonegap.com/1.0/notification"/>
+<gap:plugin name="ChildBrowser" />
+<feature name="http://plugins.phonegap.com/ChildBrowser/2.0.1" />
 <access origin="*" />
 	<plugin name="NetworkStatus" value="org.apache.cordova.NetworkManager" />
 	<plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
